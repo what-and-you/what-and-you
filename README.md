@@ -13,7 +13,7 @@
 </i></b></h3>
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; HALLO WELCOMETO PROFIL REN9999🗿👍&nbsp;
+  &nbsp; HALLO WELCOME TOPROFIL MY PROFIL REN9999🗿👍&nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 <br>
 <h4 color="purple">KUNJUNGI AKUN SOSMED SAYA 🙋‍♂️</h4>
