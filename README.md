@@ -27,5 +27,5 @@
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 <a href="https://www.instagram.com/ren_store123?igsh=MTI1Z2E1dmM3bzd2cQ==">
-<img src="https://telegra.ph/file/a3b1bde29d9d71e06ec67.jpg" alt="tutorial html"> size="5">
+<img src="https://telegra.ph/file/a3b1bde29d9d71e06ec67.jpg" alt="tutorial html"> style="width:42px;height:42px;">
 </a>
