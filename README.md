@@ -16,10 +16,7 @@
   &nbsp; HALLO WELCOMETO PROFIL REN9999🗿👍&nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-<!-- Github README -->
-
-<p align="center"><img src="https://img.shields.io/badge/🗿 %20👍-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-
+<marquee direction="left" scrollamount="10">KUMJUNGI AKUN SOED SAYA 🙋‍♂️</marquee>
 
 <a href="https://www.instagram.com/ren_store123?igsh=MTI1Z2E1dmM3bzd2cQ=="> <center>
 <img src="https://telegra.ph/file/a3b1bde29d9d71e06ec67.jpg" alt="tutorial html" style="width:42px;height:42px;">
