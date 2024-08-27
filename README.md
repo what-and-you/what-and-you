@@ -26,6 +26,8 @@
 <img src="https://telegra.ph/file/646fb9730ababc666daf7.jpg" alt="tutorial html" style="width:42px;height:42px;">
 </a>
 
-<a href="https://saweria.co/Rensawer">sawer aku dong please🙏🙏🙏</a>
+<a href="https://saweria.co/Rensawer">please give me a gift🙏</a>
 <center>
-<img src="https://telegra.ph/file/83a2156398e75c559358d.jpg" style="width:950px;height:650px;"></img>
+<a href="https://saweria.co/Rensawer">
+  <img src="https://telegra.ph/file/83a2156398e75c559358d.jpg" style="width:950px;height:650px;"></img>
+</a>
