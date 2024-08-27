@@ -16,7 +16,7 @@
   &nbsp; HELLO WELCOME TO MY PROFILE REN9999🙋‍♂️&nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 <br>
-<h4 color="purple">KUNJUNGI AKUN SOSMED SAYA 🙋‍♂️</h4>
+<h4 color="purple">VISIT MY SOCIAL MEDIA ACCOUNTS 🙋‍♂️</h4>
 
 <a href="https://www.instagram.com/ren_store123?igsh=MTI1Z2E1dmM3bzd2cQ==">
 <center>
