@@ -28,4 +28,4 @@
 
 <a href="https://saweria.co/Rensawer">sawer aku dong please🙏🙏🙏</a>
 <center>
-<img src="https://telegra.ph/file/83a2156398e75c559358d.jpg" style="width:1000px;height:1000px;"></img>
+<img src="https://telegra.ph/file/83a2156398e75c559358d.jpg" style="width:1000px;height:850px;"></img>
