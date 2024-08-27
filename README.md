@@ -18,15 +18,8 @@
 <br>
 <h4 color="purple">VISIT MY SOCIAL MEDIA ACCOUNTS 🙋‍♂️</h4>
 
-<a href="https://www.instagram.com/ren_store123?igsh=MTI1Z2E1dmM3bzd2cQ==">
-<center>
-<img src="https://telegra.ph/file/a3b1bde29d9d71e06ec67.jpg"
-  style="width:42px;height:42px;">
-</a>
-<a href="https://www.tiktok.com/@sistem9999?_t=8pE5c0AekSe&_r=1"><center>
-<img src="https://telegra.ph/file/646fb9730ababc666daf7.jpg"
-  style="width:42px;height:42px;">
-</a>
+<a href="https://www.tiktok.com/@sistem9999?_t=8pE5c0AekSe&_r=1">
+tiktok account</a>
 <br>
   <br>
 <a href="https://saweria.co/Rensawer">please give me a gift🙏</a>
