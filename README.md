@@ -26,4 +26,4 @@
 <img src="https://telegra.ph/file/646fb9730ababc666daf7.jpg" alt="tutorial html" style="width:42px;height:42px;">
 </a>
 
-<a href="https://saweria.co/Rensawer"></a>sawer aku dong please>
+<a href="https://saweria.co/Rensawer">sawer aku dong please🙏🙏🙏</a>
