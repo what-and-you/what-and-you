@@ -20,10 +20,12 @@
 
 <a href="https://www.instagram.com/ren_store123?igsh=MTI1Z2E1dmM3bzd2cQ==">
 <center>
-<img src="https://telegra.ph/file/a3b1bde29d9d71e06ec67.jpg" alt="tutorial html" style="width:42px;height:42px;">
+<img src="https://telegra.ph/file/a3b1bde29d9d71e06ec67.jpg"
+  style="width:42px;height:42px;">
 </a>
-<a href="https://www.tiktok.com/@sistem9999?_t=8pCJdiJ8MGg&_r=1"><center>
-<img src="https://telegra.ph/file/646fb9730ababc666daf7.jpg" alt="tutorial html" style="width:42px;height:42px;">
+<a href="https://www.tiktok.com/@sistem9999?_t=8pE5c0AekSe&_r=1"><center>
+<img src="https://telegra.ph/file/646fb9730ababc666daf7.jpg"
+  style="width:42px;height:42px;">
 </a>
 <br>
   <br>
